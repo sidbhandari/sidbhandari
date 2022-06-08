@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sidbhandari
 - 👀 I’m interested in web development
 - 🌱 In infinite loop of learning.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : siddhubhandari1@gmail.com
 
 <!---
